@@ -21,4 +21,11 @@ Project from the Subject of Security
   User registration, media upload, and the PKI required for client/server of
   the content distributor can be done off-line, and should not result in functionality added to the client or server.
   
-  ### You need to run venv first
+### You need to run venv first
+# Install the following:
+ For server:
+  pip3 install -U cryptography
+ For client:
+  pip3 install twisted
+  sudo apt install swig
+  pip3 install pyKCS11
