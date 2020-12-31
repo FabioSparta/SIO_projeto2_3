@@ -20,3 +20,5 @@ Project from the Subject of Security
   11. Protect the media content at rest in the server
   User registration, media upload, and the PKI required for client/server of
   the content distributor can be done off-line, and should not result in functionality added to the client or server.
+  
+  ### You need to run venv first
