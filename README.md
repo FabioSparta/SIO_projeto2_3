@@ -24,12 +24,12 @@ Project from the Subject of Security
 
 # Install the following:
  ### For venv:
-  apt install virtualenv
-  virtualenv -p python3 venv
-  bash
-  source ./venv/bin/activate
-  pip3 install -r client/requirements.txt
-  pip3 install -r server/requirements.txt
+  apt install virtualenv <br/>
+  virtualenv -p python3 venv <br/>
+  bash <br/>
+  source ./venv/bin/activate <br/>
+  pip3 install -r client/requirements.txt <br/>
+  pip3 install -r server/requirements.txt <br/>
   
  ### For server:
   pip3 install -U cryptography
